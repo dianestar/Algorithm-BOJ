@@ -21,3 +21,4 @@
 
 ### 👉 개인 공부
 - Sort Practice - Selection/Insertion/Bubble/Merge/Quick/Heap/Counting Sort 구현
+- 삼성 SW 역량 테스트 기출 문제
