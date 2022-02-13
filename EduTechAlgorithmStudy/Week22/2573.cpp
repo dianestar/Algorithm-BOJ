@@ -38,8 +38,8 @@ vector<vector<int>> decrease() {
 
 void initialize() {
     // visited 벡터와 curCount 변수 초기화
-    for (int i=0; i<N; i++) {
-        for (int j=0; j<M; j++) {
+    for (int i=1; i<N-1; i++) {
+        for (int j=1; j<M-1; j++) {
             visited[i][j] = false;
         }
     }
@@ -56,6 +56,30 @@ void search(int i, int j) {
         if (sea[nextRow][nextCol] != 0 && !visited[nextRow][nextCol]) {
             search(nextRow, nextCol);
         }
+    }
+}
+
+bool checkSplit() {
+    bool endFlag = false;\
+    for (int i=1; i<N-1; i++) {
+        for (int j=1; j<M-1; j++) {
+            if (sea[i][j] != 0) { // 0이 아닌 값이 저장된 임의의 칸 지정
+                initialize(); // 새로운 연도의 빙산 상태 탐색을 위해 초기화
+                search(i, j); // 해당 칸이 포함된 한 덩어리의 0이 아닌 칸의 개수 탐색
+                endFlag = true;
+                break;
+            }
+        }
+        if (endFlag) {
+            break;
+        }
+    }
+
+    if (curCount != iceCount) { // 빙산이 두 덩어리 이상으로 분리된 경우
+        return true;
+    }
+    else { // 빙산이 여전히 한 덩어리인 경우
+        return false;
     }
 }
 
@@ -81,27 +105,13 @@ int main() {
             break;
         }
 
-        bool endFlag = false;
-        for (int i=0; i<N; i++) {
-            for (int j=0; j<M; j++) {
-                if (sea[i][j] != 0) { // 0이 아닌 값이 저장된 임의의 칸 지정
-                    initialize(); // 새로운 연도의 빙산 상태 탐색을 위해 초기화
-                    search(i, j); // 해당 칸이 포함된 한 덩어리의 0이 아닌 칸의 개수 탐색
-                    endFlag = true;
-                    break;
-                }
-            }
-            if (endFlag) {
-                break;
-            }
-        }
-        if (curCount != iceCount) { // 빙산이 두 덩어리 이상으로 분리된 경우
-            printf("%d", year);
+        if (checkSplit()) { 
+            printf("%d", year); // 빙산이 두 덩어리 이상으로 분리되었는지 확인
             break;
         }
-        
+
         sea = decrease(); // 빙산의 높이 감소
-        year++;
+        year++; 
     }
 
     return 0;
