@@ -1,7 +1,7 @@
-# Algorithm
-### ✏ 알고리즘 공부
+# ✏ Algorithm 알고리즘 공부
 
-### 👉 교공 알고리즘 스터디 (2021년 7월 ~ 현재 진행 중)
+### 📚 교공 알고리즘 스터디 EduTechAlgorithmStudy
+**👉 2021년 7월 ~ 현재 진행 중**
 - 1주차 - 입출력, 조건문, 반복문  
 - 2주차 - 문자열, 재귀  
 - 3주차 - 스택, 큐, 덱  
@@ -19,12 +19,14 @@
 - 15주차 - 프로그래머스 코딩테스트 고득점 Kit (해쉬)  
 - 16주차 이후 - 삼성기출, 카카오기출, 탐색문제 등
 
-### 👉 개인 공부
-- Sort Practice
-  - Selection/Insertion/Bubble/Merge/Quick/Heap/Counting Sort 구현
-- 백준 문제집
-  - 삼성 SW 역량 테스트 기출 문제
-  - code.plus 코딩테스트 준비 - 기초
+### 📚 백준 스터디 BOJStudy
+**👉 2022년 3월 ~ 현재 진행 중**
+- 매주 백준 solved.ac 난이도 기준 골드5문제+실버13문제+브론즈2문제 총 20문제 채택
+  - 20문제 중 최소 10문제 이상 풀고 제출
+  - 자신이 선정한 2~3문제에 대한 발표 진행
+
+### 💻 개인적인 문제풀이 또는 공부 
+**👉 수시로 업데이트**
 - 프로그래머스 코딩테스트 고득점 Kit
   - Hash (해시)
   - StackQueue (스택/큐)
@@ -36,3 +38,8 @@
   - DFS_BFS (깊이/너비 우선 탐색)
   - Binary Search (이분탐색)
   - Graph (그래프)
+- 백준 문제집
+  - 삼성 SW 역량 테스트 기출 문제
+  - code.plus 코딩테스트 준비 - 기초
+- Sort Practice
+  - Selection/Insertion/Bubble/Merge/Quick/Heap/Counting Sort 구현
