@@ -28,12 +28,11 @@ void scanRoom(vector<string> room) {
                 visited[i][j] = true;
                 
                 int distance = 0;
-                while (distance < 2) {
+                while (!q.empty() && distance < 2) {
                     int queueSize = q.size();
-                    pair<int, int> curr = q.front();
-                    q.pop();
-                    
                     for (int k=0; k<queueSize; k++) {
+                        pair<int, int> curr = q.front();
+                        q.pop();
                         for (int l=0; l<4; l++) {
                             int nextRow = curr.first + dr[l];
                             int nextCol = curr.second + dc[l];
