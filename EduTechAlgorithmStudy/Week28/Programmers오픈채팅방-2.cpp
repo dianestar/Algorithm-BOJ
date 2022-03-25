@@ -6,7 +6,8 @@
 
 using namespace std;
 
-// Solution #2) stringstream È°¿ë
+// Solution #2) stringstream í™œìš©
+/*
 vector<string> split(string str, char delim) {
     vector<string> answer;
     stringstream ss(str);
@@ -18,6 +19,7 @@ vector<string> split(string str, char delim) {
 
     return answer;
 }
+*/
 
 vector<string> solution(vector<string> record) {
     vector<string> answer;
@@ -26,7 +28,13 @@ vector<string> solution(vector<string> record) {
     unordered_map<string, string> uidNameMap; // {uid: name}
     int N = record.size();
     for (int i=0; i<N; i++) {
-        vector<string> splitVec = split(record[i], ' ');
+        // vector<string> splitVec = split(record[i], ' ');
+        vector<string> splitVec;
+        stringstream ss(record[i]);
+        string temp;
+        while (ss >> temp) {
+            splitVec.push_back(temp);
+        }
         actionIdVec.push_back({splitVec[0], splitVec[1]});           
         if (splitVec[0] != "Leave") {
             uidNameMap[splitVec[1]] = splitVec[2];
@@ -36,8 +44,8 @@ vector<string> solution(vector<string> record) {
     for (int i=0; i<N; i++) {
         string result = "";
         result += uidNameMap[actionIdVec[i].second];
-        if (actionIdVec[i].first == "Enter") { result +=  "´ÔÀÌ µé¾î¿Ô½À´Ï´Ù."; }
-        else if (actionIdVec[i].first == "Leave") { result += "´ÔÀÌ ³ª°¬½À´Ï´Ù."; }
+        if (actionIdVec[i].first == "Enter") { result +=  "ë‹˜ì´ ë“¤ì–´ì™”ìŠµë‹ˆë‹¤."; }
+        else if (actionIdVec[i].first == "Leave") { result += "ë‹˜ì´ ë‚˜ê°”ìŠµë‹ˆë‹¤."; }
         else if (actionIdVec[i].first == "Change") { continue; }
         answer.push_back(result);
     }
