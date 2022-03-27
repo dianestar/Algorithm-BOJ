@@ -29,3 +29,28 @@
 - [14719번: 빗물](https://www.acmicpc.net/problem/14719)
 - [10026번: 적록색약](https://www.acmicpc.net/problem/10026)
 - [7576번: 토마토](https://www.acmicpc.net/problem/7576)
+***
+### 2주차 2022-03-22 TUE ~ 2022-03-28 MON
+#### 🥉 브론즈
+- [2747번: 피보나치 수](https://www.acmicpc.net/problem/2747) 
+- [2460번: 지능형 기차 2](https://www.acmicpc.net/problem/2460)
+#### 🥈 실버
+- [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
+- [2468번: 안전 영역](https://www.acmicpc.net/problem/2468)
+- [2606번: 바이러스](https://www.acmicpc.net/problem/2606)
+- [1986번: 체스](https://www.acmicpc.net/problem/1986)
+- [5177번: 출력 형식이 잘못되었습니다](https://www.acmicpc.net/problem/5177)
+- [2609번: 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)
+- [11052번: 카드 구매하기)](https://www.acmicpc.net/problem/11052)
+- [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [17609번: 회문](https://www.acmicpc.net/problem/17609)
+- [11055번: 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
+#### 🥇 골드
+- [2240번: 자두나무](https://www.acmicpc.net/problem/2240)
+- [2665번: 미로만들기](https://www.acmicpc.net/problem/2665)
+- [14502번: 연구소](https://www.acmicpc.net/problem/14502)
+- [1647번: 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+- [2176번: 합리적인 이동경로](https://www.acmicpc.net/problem/2176)
