@@ -1,6 +1,7 @@
 # 📚 교공 알고리즘 스터디
 - 백준 및 프로그래머스 문제 풀이 및 상호 코드리뷰
 - 2021년 7월 ~ 현재 진행 중 | 매주 일요일 20:00~ 온라인 구글미트
+  - 시험기간 등 사정에 따라 휴활 주간이 포함되어 있는 경우 한 주차가 2주의 기간으로 이루어져 있기도 함
 
 ## 📌 문제 바로가기 모음 
 ### 1주차 - 입출력, 조건문, 반복문
@@ -134,8 +135,56 @@
 - [[Programmers] 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [[BOJ] 15686번: 치킨 배달](https://www.acmicpc.net/problem/15686)
 ***
-### 27주차 - 팁스타운 및 카카오 기출
+### 27주차 - 프로그래머스 Lv.2
 #### ⏰ 2022-03-14 MON ~ 2022-03-20 SUN
 - [[Programmers] 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - [[Programmers] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 - [[Programmers] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+***
+### 28주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-03-21 MON ~ 2022-04-03 SUN
+- [[Programmers] 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+- [[Programmers] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+- [[Programmers] 금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
+***
+### 29주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-04-04 MON ~ 2022-04-17 SUN
+- [[Programmers] 모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
+- [[Programmers] 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+- [[Programmers] 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+***
+### 30주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-04-18 MON ~ 2022-04-24 SUN
+- [[Programmers] 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
+- [[Programmers] [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+- [[Programmers] 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+***
+### 31주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-04-25 MON ~ 2022-05-01 SUN
+- [[Programmers] 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+- [[Programmers] [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [[Programmers] 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
+***
+### 32주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-05-02 MON ~ 2022-05-15 SUN
+- [[Programmers] 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
+- [[Programmers] 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+- [[Programmers] [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+***
+### 33주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-05-16 MON ~ 2022-05-22 SUN
+- [[Programmers] 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+- [[Programmers] [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [[Programmers] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+***
+### 34주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-05-23 MON ~ 2022-06-05 SUN
+- [[Programmers] N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
+- [[Programmers] 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+- [[Programmers] k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)
+***
+### 35주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-06-06 MON ~ 2022-06-12 SUN
+- [[Programmers] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
+- [[Programmers] 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+- [[Programmers] 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
