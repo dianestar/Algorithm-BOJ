@@ -188,3 +188,39 @@
 - [[Programmers] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 - [[Programmers] 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
 - [[Programmers] 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+***
+### 36주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-06-13 MON ~ 2022-06-19 SUN
+- [[Programmers] 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+- [[Programmers] 주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+- [[Programmers] 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+***
+### 37주차 - 프로그래머스 Lv.2
+#### ⏰ 2022-06-20 MON ~ 2022-06-26 SUN
+- [[Programmers] 추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
+- [[Programmers] 문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [[Programmers] 삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+***
+### 38주차 - 프로그래머스 Lv.2 ~ Lv.3
+#### ⏰ 2022-06-27 MON ~ 2022-07-10 SUN
+- [[Programmers] 점프와순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
+- [[Programmers] 자물쇠와열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+- [[Programmers] 예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
+***
+### 39주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-07-11 MON ~ 2022-07-17 SUN
+- [[BOJ] 주사위굴리기](https://www.acmicpc.net/problem/14499)
+- [[Programmers] 행렬테두리회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
+- [[Programmers] 카드짝맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)
+***
+### 40주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-07-18 MON ~ 2022-07-24 SUN
+- [[Programmers] 보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+- [[BOJ] 컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055)
+- [[Programmers] 다음큰숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+***
+### 41주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-07-25 MON ~ 2022-07-31 SUN
+- [[Programmers] n^2배열자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+- [[Programmers] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
+- [[BOJ] 스타트와링크](https://www.acmicpc.net/problem/14889)
