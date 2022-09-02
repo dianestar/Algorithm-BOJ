@@ -1,7 +1,8 @@
 # 📚 교공 알고리즘 스터디
 - 백준 및 프로그래머스 문제 풀이 및 상호 코드리뷰
-- 2021년 7월 ~ 현재 진행 중 | 매주 일요일 20:00~ 온라인 구글미트
+- 2021년 7월 ~ 현재 진행 중 | 주 1회 온라인 구글미트
   - 시험기간 등 사정에 따라 휴활 주간이 포함되어 있는 경우 한 주차가 2주의 기간으로 이루어져 있기도 함
+- 42주차 이후 JavaScript로 푼 일부 문제들의 풀이는 [algorithm-js](https://github.com/dianestar/algorithm-js) 레포지토리에서 확인 가능
 
 ## 📌 문제 바로가기 모음 
 ### 1주차 - 입출력, 조건문, 반복문
@@ -224,3 +225,27 @@
 - [[Programmers] n^2배열자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 - [[Programmers] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
 - [[BOJ] 스타트와링크](https://www.acmicpc.net/problem/14889)
+***
+### 42주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-08-01 MON ~ 2022-08-07 SUN
+- [[BOJ] 감시](https://www.acmicpc.net/problem/15683)
+- [[Programmers] 멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.js)
+- [[Programmers] 불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.js)
+***
+### 43주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-08-08 MON ~ 2022-08-28 SUN
+- [[Programmers] 합승택시요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.js)
+- [[BOJ] 경사로](https://www.acmicpc.net/problem/14890)
+- [[Programmers] 이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)
+***
+### 44주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-08-29 MON ~ 2022-09-03 SUN
+- [[Programmers] 방문길이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.js)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.js)
+- [[Programmers] 야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.js)
+- [[BOJ] 청소년상어](https://www.acmicpc.net/problem/19236)
