@@ -243,9 +243,17 @@
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)
 ***
 ### 44주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
-#### ⏰ 2022-08-29 MON ~ 2022-09-03 SUN
+#### ⏰ 2022-08-29 MON ~ 2022-09-04 SUN
 - [[Programmers] 방문길이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.js)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.js)
 - [[Programmers] 야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.js)
 - [[BOJ] 청소년상어](https://www.acmicpc.net/problem/19236)
+***
+### 45주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-09-05 MON ~ 2022-09-25 SUN
+- [[BOJ] 이차원배열과연산](https://www.acmicpc.net/problem/17140)
+- [[Programmers] 두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+- [[Programmers] 코딩테스트공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%B5%EB%B6%80.js)
