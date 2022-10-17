@@ -251,9 +251,24 @@
 - [[BOJ] 청소년상어](https://www.acmicpc.net/problem/19236)
 ***
 ### 45주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
-#### ⏰ 2022-09-05 MON ~ 2022-09-25 SUN
+#### ⏰ 2022-09-05 MON ~ 2022-10-02 SUN
 - [[BOJ] 이차원배열과연산](https://www.acmicpc.net/problem/17140)
 - [[Programmers] 두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [[Programmers] 코딩테스트공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B3%B5%EB%B6%80.js)
+***
+### 46주차 - 프로그래머스 Lv.2 ~ Lv.3
+#### ⏰ 2022-10-03 MON ~ 2022-10-16 SUN
+- [[Programmers] 경주로신설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4.js)
+- [[Programmers] 2xn타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/2xn%ED%83%80%EC%9D%BC%EB%A7%81.js)
+***
+### 47주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-10-17 MON ~ 2022-10-23 SUN
+- [[Programmers] 행렬의곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88.js)
+- [[Programmers] 징검다리건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.js)
+- [[BOJ] 드래곤커브](https://www.acmicpc.net/problem/15685)
