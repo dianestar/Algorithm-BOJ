@@ -266,9 +266,17 @@
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/2xn%ED%83%80%EC%9D%BC%EB%A7%81.js)
 ***
 ### 47주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
-#### ⏰ 2022-10-17 MON ~ 2022-10-23 SUN
+#### ⏰ 2022-10-17 MON ~ 2022-10-30 SUN
 - [[Programmers] 행렬의곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88.js)
 - [[Programmers] 징검다리건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.js)
 - [[BOJ] 드래곤커브](https://www.acmicpc.net/problem/15685)
+***
+### 48주차 - 프로그래머스 Lv.2 ~ Lv.3 + 백준 구현 문제
+#### ⏰ 2022-10-31 MON ~ 2022-11-13 SUN
+- [[BOJ] 게리맨더링2](https://www.acmicpc.net/problem/17779)
+- [[Programmers] 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level2/%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%ED%95%A9%EC%9D%98%EA%B0%9C%EC%88%98.js)
+- [[Programmers] 양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+👉 [JavaScript 풀이](https://github.com/dianestar/algorithm-js/blob/main/Programmers/Level3/%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80.js)
