@@ -1,7 +1,7 @@
 # ✏ Algorithm 알고리즘 공부
 
 ### 📚 교공 알고리즘 스터디 EduTechAlgorithmStudy
-**👉 2021년 7월 ~ 현재 진행 중**
+**👉 2021년 7월 ~ 2022년 11월 약 48회 진행**
 - 1주차 - 입출력, 조건문, 반복문  
 - 2주차 - 문자열, 재귀  
 - 3주차 - 스택, 큐, 덱  
@@ -40,6 +40,7 @@
   - Graph (그래프)
 - 백준 문제집
   - 삼성 SW 역량 테스트 기출 문제
-  - code.plus 코딩테스트 준비 - 기초
+  - code.plus 코딩테스트 준비
+  - 그 외 다양한 알고리즘 문제
 - Sort Practice
   - Selection/Insertion/Bubble/Merge/Quick/Heap/Counting Sort 구현
